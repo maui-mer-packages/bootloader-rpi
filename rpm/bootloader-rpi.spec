@@ -1,7 +1,7 @@
 Name:       bootloader-rpi
 
 Summary:    Raspberry Pi bootloader files
-Version:    0.0.3
+Version:    0.0.4
 Release:    1
 Group:      Kernel/Linux Kernel
 License:    GPLv2 and Broadcom Proprietary
