@@ -1,0 +1,9 @@
+* Wed Jun 01 2013 Chris Leach <cxl000@hotmail.com> - 0.0.3
+- Update to upstream version 57b60453
+- Split default kernel into seperate package
+
+* Wed Apr 24 2013 Chris Leach <cxl000@hotmail.com> - 0.0.2
+- Update to upstream version 7fcb9d3e
+
+* Mon Apr 01 2013 Martin Brook <martin.brook100@googlemail.com> - 0.0.1
+- Initail version of bootloader-rpi
