@@ -43,7 +43,6 @@ cp -a modules %{buildroot}/lib
 /boot/start_x.elf
 /boot/COPYING.linux
 /boot/fixup.dat
-/boot/kernel_emergency.img
 /boot/LICENCE.broadcom
 /boot/start.elf
 
